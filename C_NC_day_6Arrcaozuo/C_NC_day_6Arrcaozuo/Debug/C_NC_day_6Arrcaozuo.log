@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/11/14 22:46:21。
+     1>项目“F:\C语言作业\C_NC_day_6Arrcaozuo\C_NC_day_6Arrcaozuo\C_NC_day_6Arrcaozuo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt shuzucaozuo.c
+         shuzucaozuo.c
+     1>f:\c语言作业\c_nc_day_6arrcaozuo\c_nc_day_6arrcaozuo\shuzucaozuo.c(66): warning C4047: “函数”:“int *”与“int”的间接级别不同
+     1>f:\c语言作业\c_nc_day_6arrcaozuo\c_nc_day_6arrcaozuo\shuzucaozuo.c(66): warning C4024: “init”: 形参和实参 1 的类型不同
+     1>f:\c语言作业\c_nc_day_6arrcaozuo\c_nc_day_6arrcaozuo\shuzucaozuo.c(69): warning C4047: “函数”:“int *”与“int”的间接级别不同
+     1>f:\c语言作业\c_nc_day_6arrcaozuo\c_nc_day_6arrcaozuo\shuzucaozuo.c(69): warning C4024: “empty”: 形参和实参 1 的类型不同
+     1>f:\c语言作业\c_nc_day_6arrcaozuo\c_nc_day_6arrcaozuo\shuzucaozuo.c(72): warning C4047: “函数”:“int *”与“int”的间接级别不同
+     1>f:\c语言作业\c_nc_day_6arrcaozuo\c_nc_day_6arrcaozuo\shuzucaozuo.c(72): warning C4024: “reverse”: 形参和实参 1 的类型不同
+       Link:
+         F:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C语言作业\C_NC_day_6Arrcaozuo\Debug\C_NC_day_6Arrcaozuo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C语言作业\C_NC_day_6Arrcaozuo\Debug\C_NC_day_6Arrcaozuo.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C语言作业\C_NC_day_6Arrcaozuo\Debug\C_NC_day_6Arrcaozuo.lib" /MACHINE:X86 Debug\shuzucaozuo.obj
+         C_NC_day_6Arrcaozuo.vcxproj -> F:\C语言作业\C_NC_day_6Arrcaozuo\Debug\C_NC_day_6Arrcaozuo.exe
+     1>已完成生成项目“F:\C语言作业\C_NC_day_6Arrcaozuo\C_NC_day_6Arrcaozuo\C_NC_day_6Arrcaozuo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.59
