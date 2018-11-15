@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/11/15 11:33:12。
+     1>项目“F:\C语言作业\C_NC_day7sushu\C_NC_day7sushu\C_NC_day7sushu.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt sushu.c
+         sushu.c
+     1>f:\c语言作业\c_nc_day7sushu\c_nc_day7sushu\sushu.c(9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         F:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C语言作业\C_NC_day7sushu\Debug\C_NC_day7sushu.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C语言作业\C_NC_day7sushu\Debug\C_NC_day7sushu.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C语言作业\C_NC_day7sushu\Debug\C_NC_day7sushu.lib" /MACHINE:X86 Debug\sushu.obj
+         C_NC_day7sushu.vcxproj -> F:\C语言作业\C_NC_day7sushu\Debug\C_NC_day7sushu.exe
+     1>已完成生成项目“F:\C语言作业\C_NC_day7sushu\C_NC_day7sushu\C_NC_day7sushu.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.81
